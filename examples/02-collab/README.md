@@ -6,6 +6,8 @@ Read the guide [here](https://reka.js.org/docs/guides/realtime)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/prevwong/reka.js/tree/main/examples/02-collab)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/prevwong/reka.js)
+
 ## Setting the Editor's initial state
 
 Because we're using WebRTC in this example, we need to first correctly set the initial state that we want in Reka.
